@@ -89,14 +89,14 @@ std::cout << cubearea << std::endl;
 double side = 0;
 double squareperimeter = 0;
 std::cout << "enter side" << std::endl;
-squareperimeter=side + side + side + side;
+squareperimeter = side + side + side + side;
 std::cout << squareperimeter << std::endl;
 //////////////////////////////////////
 // 13;
 double radius = 0;
 double diameter = 0;
 std::cout << "enter radius" << std::endl;
-diameter=radius + radius;
+diameter = radius + radius;
 std::cout << diameter << std::endl;
 //////////////////////////////////////
 
