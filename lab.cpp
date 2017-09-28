@@ -59,7 +59,7 @@ distance = sqrt((x2 - x1)*(x2 - x1) + (y2 - y1)*(y2 - y1));
 std::cout << distance << std::endl;
 //////////////////////////////////////
 // 9;
-double uprbase = 0;
+double upbase = 0;
 double bbase = 0;
 double height = 0;
 double perimeter = 0;
