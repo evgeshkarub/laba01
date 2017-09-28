@@ -61,10 +61,10 @@ std::cout << distance << std::endl;
 // 9;
 double uprbase = 0;
 double bbase = 0;
-double Height = 0;
+double height = 0;
 double perimeter = 0;
 std::cout << "enter upper base, bottom base, and height" << std::endl;
-perimeter = upbase + bbase + 2*sqrt((bbase - upper base)*(bbase - upbase) + height*height);
+perimeter = upbase + bbase + 2*sqrt((bbase - upbase)*(bbase - upbase) + height*height);
 std::cout << perimeter << std::endl;
 //////////////////////////////////////
 // 10;
@@ -72,7 +72,7 @@ double biggerradius = 0;
 double smallerradius = 0;
 double area = 0;
 std::cout << "enter bigger radius and smaller radius" << std::endl;
-area = bigerradius*biggerradius*3.1415926535 - smallerradius*smallerradius*3.1415926535;
+area = biggerradius*biggerradius*3.1415926535 - smallerradius*smallerradius*3.1415926535;
 std::cout << area << std::endl;
 //////////////////////////////////////
 // 11;
