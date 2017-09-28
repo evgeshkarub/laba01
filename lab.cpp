@@ -12,7 +12,7 @@ std::cout << 1 <<" "<< 13 <<" "<< 49 << std::endl;
 char symbol;
 std::cout << "enter the symbol" << std::endl;
 std::cin >> symbol;
-std::cout << 1 << r << 13 << r << 49 << std::endl;
+std::cout << 1 << symbol << 13 << symbol << 49 << std::endl;
 ////////////////////////////////////
 // 4;
 int a, b, c;
